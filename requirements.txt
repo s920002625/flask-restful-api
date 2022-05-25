@@ -19,7 +19,7 @@ mysqlclient==1.4.6
 post==2019.4.13
 public==2019.4.13
 pycparser==2.19
-PyJWT==1.6.4
+PyJWT==2.4.0
 PyMySQL==0.9.3
 pyOpenSSL==19.1.0
 PyYAML==5.3
